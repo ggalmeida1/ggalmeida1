@@ -44,6 +44,11 @@
 ![web3](https://img.shields.io/badge/Web_3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
+### Back-End Development
+
+![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white))
+![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 
 ### Backend as a Service (BaaS)
 
