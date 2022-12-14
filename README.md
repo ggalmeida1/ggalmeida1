@@ -76,18 +76,17 @@
 
 Want to read more? [Check out all the blogs](https://dev.to/ruppysuppy) -->
 
-## 📈 Stats
+<!-- ## 📈 Stats
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=ggalmeida1&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
     <br />
     <img src="https://github-readme-stats.vercel.app/api?username=ggalmeida1&show_icons=true&hide_border=true" alt="Gabriel Almeida's GitHub Stats">
-</div>
+</div> -->
 
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://www.almeidadeveloper.com/)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.almeidadeveloper.com/files/resume.pdf)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ggalmeida/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ggalmeida1)
 [![outlook](https://img.shields.io/badge/Outlook-444AEB?style=for-the-badge&logo=outlook&logoColor=white)](mailto:gab.galmeida@outlook.com)
