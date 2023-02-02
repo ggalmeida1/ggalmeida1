@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Gabriel Almeida, a **Full Stack Web Developer** (specialized in **React and Node Applications**) . I am also Pursuing my Bachelor in **Information Systems and Software Engineering** and will graduate at the end of 2022.
+🎓 I am Gabriel Almeida, a **Full Stack Web Developer** (specialized in **React and Node Applications**) . I am also Pursuing my Bachelor in **Information Systems and Software Engineering** and will graduate at the end of 2023.
 
 👨‍💻 I enjoy learning new technologies related to Web3. In 2021, I learned **Node.js**, **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, and **PHP/Drupal**. I got started with **Freelancing** and **Blogging** quite recently and soon will release a live blog. In 2022, I am studying Solidity and Hardhat.
 
