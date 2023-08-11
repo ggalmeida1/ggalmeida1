@@ -2,11 +2,11 @@
 
 ## 🚀 About Me
 
-🎓 I am Gabriel Almeida, a **Full Stack Web Developer** (specialized in **React and Node Applications**) . I am also Pursuing my Bachelor in **Information Systems and Software Engineering** and will graduate at the end of 2023.
+🎓 I am Gabriel Almeida, a **Full Stack Web Developer** (specialized in **React, Next.js and Node Applications**) . I am also Pursuing my Bachelor in **Information Systems and Software Engineering** and will graduate at the end of 2024.
 
-👨‍💻 I enjoy learning new technologies related to Web3. In 2021, I learned **Node.js**, **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, and **PHP/Drupal**. I got started with **Freelancing** and **Blogging** quite recently and soon will release a live blog. In 2022, I am studying Solidity and Hardhat.
+👨‍💻 I enjoy learning new technologies related to Web3. I also learned **Node.js**, **Next.js**, **GraphQL**, and **PHP/Drupal**.
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **guitar**, **cars (specially 4x4)**, **economy**, and **playing volleyball** as a setter.
+🎸 Outside the world of tech, I enjoy pushing myself to develop new skills. My hobbies range from **guitar**, **cars (specially 4x4)**, **economy**, and **playing volleyball** as a setter.
 
 📚 I also like reading books on **Leadership** & **Financial Literacy**. My favorite ones are **The First 90 days** by _Michael Watkins_ in the genre of leadership and **Antifragile** by _Nassim Nicholas Taleb_ in the genre of financial literacy.
 
